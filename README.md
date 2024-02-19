@@ -20,52 +20,6 @@ Location:
 CPSC 5002-01
 
 Programming Boot Camp II
-
-3
-
-MWTh 3:30-5:35pm
-
-Sinegal CSI 100 Lecture/Lab
-	
-
-Instructor:
-
-Phone:
-
-Email:
-
-Office:
-
-Office Hours:
-( Zoom )
-	
-
-Mike McKee
-
- 
-
-mckeem@seattleu.edu
-
-SINE 220-05
-
-By appointment and Monday morning at 9:00 AM in personal meeting room:
-https://seattleu.zoom.us/my/mikewardmckee
-
-Links to an external site.
-
-Tutoring:
-
-	
-
-MWTh   2:30-9:00pm
-Tu           5:00-9:00pm Zoom:
-Links to an external site.
-F             2:30-6:30pm  Zoom:
-
-Links to an external site.
-	
-
- 
 	
 Catalog Description:
 
